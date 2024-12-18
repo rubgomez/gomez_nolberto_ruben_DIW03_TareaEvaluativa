@@ -466,12 +466,13 @@ h4, p, header nav ul{
 
 /* pseudoclases ------------------- */
 nav ul li a:hover{
-    font-weight: normal;
+    font-weight: bold;
 }
 
 
 nav#menu ul li a:hover{
     text-decoration: underline;
+    font-weight: normal;
 }
 
 .logo:hover, .productos article:hover, .operar:hover{
